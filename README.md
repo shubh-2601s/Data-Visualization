@@ -217,5 +217,7 @@ The Superstore dataset used in this project is a sample dataset commonly used fo
 # Contact
 
 Email- 10221shubham.s@gmail.com
-github- github.com/shubh-2601s
+
+github- https://github.com/shubh-2601s
+
 linkedin- https://www.linkedin.com/in/shubham-s-14ba6a283
