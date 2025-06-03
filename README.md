@@ -133,11 +133,6 @@ Each visual updates dynamically based on filter selections.
 
 **Actionable Insight:** Review logistics for improving delivery satisfaction.
 
----
-
-## Preview
-
-A preview of the dashboard is available in the `assets` folder as `dashboard_preview.png`.
 
 ---
 
